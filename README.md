@@ -18,6 +18,9 @@ I am focusing not only on learning algorithms, but also on understanding **when 
 
 ---
 
+### 📊 Current Progress :
+Week 1 -> (Day-2)
+
 # 📚 16-Week Roadmap
 
 | Week | Topic                                            | Status         |
@@ -151,9 +154,6 @@ The objective is to move beyond simply knowing how to call a Scikit-learn functi
 * Git & GitHub
 
 ---
-
-# 📊 Current Progress : Week 1 -> (Day-2)
-
 
 # 📁 Projects
 
