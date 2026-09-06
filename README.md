@@ -19,7 +19,7 @@ I am focusing not only on learning algorithms, but also on understanding **when 
 ---
 
 ### 📊 Current Progress :
-Week 1 -> (Day-2)
+Week 1 -> (Day-3): Descriptive Statistics Part 2
 
 # 📚 16-Week Roadmap
 
