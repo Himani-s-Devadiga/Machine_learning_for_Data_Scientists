@@ -19,7 +19,7 @@ I am focusing not only on learning algorithms, but also on understanding **when 
 ---
 
 ### 📊 Current Progress :
-Week 1 -> (Day-4) :  Understanding_the_data
+Week 1 -> (Day-5) :  Completed Univariante Analysis
 
 # 📚 16-Week Roadmap
 
