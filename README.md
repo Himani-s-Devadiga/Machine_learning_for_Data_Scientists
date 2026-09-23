@@ -23,11 +23,10 @@ Week 2 -> (Day-2) :  Completed 50% of Day-2(PDF,PMF,CDF) and yet to complete the
 
 # 📚 16-Week Roadmap
 
-| Week | Topic                                            | Status         |
-| ---- | ------------------------------------------------ | -------------- |
-| 01   | Statistics & Exploratory Data Analysis           | <img width="477" height="465" alt="image" src="https://github.com/user-attachments/assets/47e5e1ce-379e-4cda-891e-544dcaa64cc4" />
- In Progress |
-| 02   | Probability, Naive Bayes & KNN                   | ⏳ Upcoming     |
+| Week | Topic                                            | Status          |
+| ---- | ------------------------------------------------ | --------------  |
+| 01   | Statistics & Exploratory Data Analysis           | ✅completed     |
+| 02   | Probability, Naive Bayes & KNN                   |  In Progress    |
 | 03   | Distributions, Preprocessing & Linear Regression | ⏳ Upcoming     |
 | 04   | CLT, Hypothesis Testing & Regression Mastery     | ⏳ Upcoming     |
 | 05   | Regularization & Logistic Regression             | ⏳ Upcoming     |
