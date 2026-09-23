@@ -19,7 +19,7 @@ I am focusing not only on learning algorithms, but also on understanding **when 
 ---
 
 ### 📊 Current Progress :
-Week 1 -> (Day-5) :  Completed Bivariante_and_Multivariante_Analysis
+Week 2 -> (Day-2) :  Completed 50% of Day-2(PDF,PMF,CDF) and yet to complete the remaining part 
 
 # 📚 16-Week Roadmap
 
