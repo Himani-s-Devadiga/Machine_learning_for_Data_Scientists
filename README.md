@@ -19,14 +19,14 @@ I am focusing not only on learning algorithms, but also on understanding **when 
 ---
 
 ### 📊 Current Progress :
-Week 2 -> (Day-2) :  Completed 50% of Day-2(PDF,PMF,CDF) and yet to complete the remaining part 
+Week 2 -> (Day-2) :  Completed 90% of Day-3(PDF,PMF,CDF) and yet to complete the remaining understanding part
 
 # 📚 16-Week Roadmap
 
 | Week | Topic                                            | Status          |
 | ---- | ------------------------------------------------ | --------------  |
 | 01   | Statistics & Exploratory Data Analysis           | ✅completed     |
-| 02   | Probability, Naive Bayes & KNN                   |  In Progress    |
+| 02   | Probability, Naive Bayes & KNN                   | 🔄In Progress    |
 | 03   | Distributions, Preprocessing & Linear Regression | ⏳ Upcoming     |
 | 04   | CLT, Hypothesis Testing & Regression Mastery     | ⏳ Upcoming     |
 | 05   | Regularization & Logistic Regression             | ⏳ Upcoming     |
