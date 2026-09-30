@@ -19,7 +19,7 @@ I am focusing not only on learning algorithms, but also on understanding **when 
 ---
 
 ### 📊 Current Progress :
-Week 2 -> (Day-2) :  Completed 90% of Day-3(PDF,PMF,CDF) and yet to complete the remaining understanding part
+Week 2 -> (Day-4) :  Completed Conditional probability and bayes theorem
 
 # 📚 16-Week Roadmap
 
