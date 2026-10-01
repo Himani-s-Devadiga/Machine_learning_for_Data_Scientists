@@ -19,7 +19,7 @@ I am focusing not only on learning algorithms, but also on understanding **when 
 ---
 
 ### 📊 Current Progress :
-Week 2 -> (Day-4) :  Completed Conditional probability and bayes theorem
+Week 2 -> (Day-5) :  Completed Naive Bayes and completed it's coding session
 
 # 📚 16-Week Roadmap
 
