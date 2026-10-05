@@ -41,6 +41,8 @@ empirical_probability = heads / 1000
 print("Heads:", heads)
 print("Empirical Probability:", empirical_probability)
 
+print("Sum of probabilities:", sum(probability_distribution.values()))
+
 Your probability might be something like:
 Heads: 497
 Empirical Probability: 0.497
