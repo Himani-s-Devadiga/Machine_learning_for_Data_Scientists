@@ -1,13 +1,13 @@
 # Introduction to probability
 
-## create the sample space:
+🟢 create the sample space:
 sample_space = [1, 2, 3, 4, 5, 6]
 print("Sample Space:", sample_space)
 
 o/p:
 Sample Space: [1, 2, 3, 4, 5, 6]
 
-## create an event
+🟢 create an event
 event: Getting an even number
 even_numbers = [x for x in sample_space if x % 2 == 0]
 print("Event:", even_numbers)
@@ -15,7 +15,7 @@ print("Event:", even_numbers)
 O/p:
 Event: [2, 4, 6]
 
-## Theoretical Probability
+🟢 Theoretical Probability
 Probability of getting an even number
 favorable = len(even_numbers)
 total = len(sample_space)
@@ -25,7 +25,7 @@ print("Probability:", probability)
 O/p:
 Probability: 0.5
 
-## Empirical Probability
+🟢 Empirical Probability
 import random
 flips = []
 for i in range(1000):
@@ -93,7 +93,7 @@ print("Probability Distribution:", probability_distribution)
 O/p:
 {2: 0.25, 1: 0.5, 0: 0.25}
 
-## Mean and variance
+🟢 Mean and variance
 import numpy as np
 
 print("Mean:", np.mean(X))
