@@ -27,8 +27,8 @@ I am focusing not only on learning algorithms, but also on understanding **when 
 | Week | Topic                                            | Status          |
 | ---- | ------------------------------------------------ | --------------  |
 | 01   | Statistics & Exploratory Data Analysis           | ✅completed     |
-| 02   | Probability, Naive Bayes & KNN                   | 🔄In Progress    |
-| 03   | Distributions, Preprocessing & Linear Regression | ⏳ Upcoming     |
+| 02   | Probability, Naive Bayes & KNN                   | ✅completed     |
+| 03   | Distributions, Preprocessing & Linear Regression | 🔄In Progress  |
 | 04   | CLT, Hypothesis Testing & Regression Mastery     | ⏳ Upcoming     |
 | 05   | Regularization & Logistic Regression             | ⏳ Upcoming     |
 | 06   | Decision Trees & Random Forest                   | ⏳ Upcoming     |
