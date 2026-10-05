@@ -1,0 +1,104 @@
+# Introduction to probability
+
+## create the sample space:
+sample_space = [1, 2, 3, 4, 5, 6]
+print("Sample Space:", sample_space)
+
+o/p:
+Sample Space: [1, 2, 3, 4, 5, 6]
+
+## create an event
+event: Getting an even number
+even_numbers = [x for x in sample_space if x % 2 == 0]
+print("Event:", even_numbers)
+
+O/p:
+Event: [2, 4, 6]
+
+## Theoretical Probability
+Probability of getting an even number
+favorable = len(even_numbers)
+total = len(sample_space)
+probability = favorable / total
+print("Probability:", probability)
+
+O/p:
+Probability: 0.5
+
+## Empirical Probability
+import random
+flips = []
+for i in range(1000):
+    flip = random.choice(["Heads", "Tails"])
+    flips.append(flip)
+print(flips[:10])
+
+This actually performs 1000 random coin flips and stores the results.
+Then count Heads:
+heads = flips.count("Heads")
+
+empirical_probability = heads / 1000
+print("Heads:", heads)
+print("Empirical Probability:", empirical_probability)
+
+Your probability might be something like:
+Heads: 497
+Empirical Probability: 0.497
+
+🟢  Random Variable
+
+Now we're going to turn the results of an experiment into numbers.
+We'll use 2 coin flips.
+Possible outcomes:
+HH → 2 heads
+HT → 1 head
+TH → 1 head
+TT → 0 heads
+
+So we define:
+X = number of Heads
+Code
+outcomes = ["HH", "HT", "TH", "TT"]
+X = [outcome.count("H") for outcome in outcomes]
+print("Outcomes:", outcomes)
+print("X:", X)
+
+Outcomes: ['HH', 'HT', 'TH', 'TT']
+X: [2, 1, 1, 0]
+
+
+🟢 Probability Distribution
+
+outcomes = ["HH", "HT", "TH", "TT"]
+X = [outcome.count("H") for outcome in outcomes]
+print("Outcomes:", outcomes)
+print("X:", X)
+
+Now let's find how often each value of X occurs.
+from collections import Counter
+frequency = Counter(X)
+print("Frequency:", frequency)
+
+Output:
+Frequency: Counter({1: 2, 2: 1, 0: 1})
+
+Convert frequency into probability:
+total = len(X)
+probability_distribution = {
+    value: count / total
+    for value, count in frequency.items()
+}
+print("Probability Distribution:", probability_distribution)
+
+O/p:
+{2: 0.25, 1: 0.5, 0: 0.25}
+
+## Mean and variance
+import numpy as np
+
+print("Mean:", np.mean(X))
+print("Variance:", np.var(X))
+
+o/p:
+Mean: 1.0
+Variance: 0.5
