@@ -19,8 +19,8 @@ I am focusing not only on learning algorithms, but also on understanding **when 
 ---
 
 ### 📊 Current Progress :
-#### Week 2 -> (Day-6) : Practiced coding on Implementation of Naive Bayes
-#### Tmrr's task: Coding Day-1,Day-7
+#### Week 03 -> (Day-1) : Watched video of Normal Distribution
+#### Tmrr's task: Coding Day-1 and Day-2 video of Non-Gaussian Distribution
 
 # 📚 16-Week Roadmap
 
