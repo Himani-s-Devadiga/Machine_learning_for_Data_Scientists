@@ -10,8 +10,8 @@ The goal is to understand the concepts, implement them in Python, evaluate regre
 
 ## 📌 Progress
 
-- [🔄] **Day 1 — Normal Distribution**
-- [ ] **Day 2 — Z-Score + Gaussian vs Non-Gaussian**
+- [✅] **Day 1 — Normal Distribution**
+- [🔄] **Day 2 — Z-Score + Gaussian vs Non-Gaussian**
 - [ ] **Day 3 — Feature Scaling**
 - [ ] **Day 4 — Encoding + ColumnTransformer + Pipelines**
 - [ ] **Day 5 — Linear Regression**
